@@ -43,13 +43,16 @@
 
 13. В конце работы программы обязательно закрываем единственно открытое соединение.
 
-#График
+# График
+
 ![image](https://user-images.githubusercontent.com/95271008/211306942-8a2f925c-2511-472b-a02a-55705a1a5165.png)
 
-#Второе задание
+# Второе задание
+
 ![image](https://user-images.githubusercontent.com/95271008/211307004-0668d1a6-a8b0-4f20-9de4-31c58cc98960.png)
 
-#Третье задание
+# Третье задание
+
 ![image](https://user-images.githubusercontent.com/95271008/211307049-d8ae5f96-0828-475c-8682-938b0ec0e357.png)
 
 
